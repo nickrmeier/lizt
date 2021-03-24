@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Header.css"],"names":[],"mappings":"AAAA,YACI,gBACJ,CAEA,wBACQ,YACA,aACJ,CACJ","file":"main.b5d7afcd.chunk.css","sourcesContent":[".brand-logo {\n    margin-left: 30px;\n}\n\n@media(max-width: 993px){\n        .brand-logo {\n        margin-left: 0px;\n    }\n}\n"]}
